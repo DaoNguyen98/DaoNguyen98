@@ -1,5 +1,5 @@
 
-# Dao Nguyen
+# Jessica Nguyen
 
 Computer Science graduate focused on Data Analytics, Machine Learning, and Data Engineering. I build data-driven projects that turn raw information into meaningful insights and practical solutions.
 
